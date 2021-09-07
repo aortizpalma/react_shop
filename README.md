@@ -17,7 +17,19 @@ Built with:
 
 Install the following dependencies:
 
-Live page [here](https://)
+- Redux
+- React-Redux
+- SASS
+- Redux-DevTools-Extension
+- Redux-Thunk
+
+```
+> npm install redux react-redux node-sass
+> npm install --save redux-devtools-extension
+> npm install --save redux-thunk
+```
+
+Live page will be coming [here](https://)
 
 ## Screenshot
 
@@ -29,3 +41,7 @@ Alfonso Ortiz Palma Junco
 
 - GitHub @aortizpalma
 - [LinkedIn](https://www.linkedin.com/in/ortizpalma/)
+
+```
+
+```
