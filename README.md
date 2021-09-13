@@ -19,12 +19,13 @@ Install the following dependencies:
 
 - Redux
 - React-Redux
+- React-Router-DOM
 - SASS
 - Redux-DevTools-Extension
 - Redux-Thunk
 
 ```
-> npm install redux react-redux node-sass
+> npm install redux react-redux node-sass react-router-dom
 > npm install --save redux-devtools-extension
 > npm install --save redux-thunk
 ```
