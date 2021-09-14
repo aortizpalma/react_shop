@@ -23,11 +23,14 @@ Install the following dependencies:
 - SASS
 - Redux-DevTools-Extension
 - Redux-Thunk
+- Axios
+- JSON server
 
 ```
-> npm install redux react-redux node-sass react-router-dom
+> npm install redux react-redux node-sass react-router-dom axios
 > npm install --save redux-devtools-extension
 > npm install --save redux-thunk
+> npm install json-server --save-dev
 ```
 
 Live page will be coming [here](https://)

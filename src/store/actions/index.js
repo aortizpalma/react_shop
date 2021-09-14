@@ -1,3 +1,10 @@
+
+export const INCREMENT_PRODUCT = "INCREMENT_PRODUCT";
+export const DECREMENT_PRODUCT = "DECREMENT_PRODUCT";
+export const INCREMENT_CART = "INCREMENT_CART";
+export const DECREMENT_CART = "DECREMENT_CART";
+export const INIT_PRODUCTS = "INIT_PRODUCTS"
+
 /* 
 export const INCREMENT_PRODUCT = () => {
     return {
@@ -20,8 +27,3 @@ export const DECREMENT_CART = () => {
     };
 };
  */
-
-export const INCREMENT_PRODUCT = "INCREMENT_PRODUCT";
-export const DECREMENT_PRODUCT = "DECREMENT_PRODUCT";
-export const INCREMENT_CART = "INCREMENT_CART";
-export const DECREMENT_CART = "DECREMENT_CART";
